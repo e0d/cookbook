@@ -1,10 +1,10 @@
 * Laccha Pyaaz (Onion Salad)
  :PROPERTIES:
   :source-url: https://www.saveur.com/french-braised-chicken-basquaise-recipe/
-  :servings: 
-  :prep-time: 
-  :cook-time: 
-  :ready-in: 
+  :servings: 6-8 
+  :prep-time:
+  :cook-time:
+  :ready-in: 1 hour, 5 minutes
   :END:
 
 ** Ingredients
@@ -39,7 +39,7 @@
 7. In the same pot over medium-high heat, add the onion and shallot and cook, stirring occasionally, until lightly browned, about 5 minutes.
 8. Stir in the tomato and cook until the liquid evaporates, about 3 minutes.
 9. Add the tomato paste and cook, stirring, for 1 minute.
-10. Stir in 1⁄2 cup stock and 1⁄2 teaspoon salt, scraping up the browned bits from the bottom of the pan.
+10. Stir in 1/2 cup stock and 1/2 teaspoon salt, scraping up the browned bits from the bottom of the pan.
 11. Cook until the liquid has mostly evaporated, 5-8 minutes. Return the thyme, garlic, bay leaf, sausages, and chicken (skin side up) to the pot. Transfer to the oven and roast until the chicken is cooked through, about 10 minutes.
 12. Transfer the chicken and sausages to a platter.
 13. Set the pot back on the stove over medium-high heat. Add the wine, piquillo peppers, and remaining 1 cup stock and bring to a simmer
